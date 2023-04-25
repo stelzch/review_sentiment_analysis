@@ -4,4 +4,7 @@ This is assignment number 3 of the course DAT341 Applied Machine Learning at the
 
 This repository contains our code and the weights for the fine-tuned BERT model.
 
+Details can be found in [the report](./report/report.pdf).
+
 ![](./figures/accuracy_barplot.svg)
+
